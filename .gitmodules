@@ -1,0 +1,3 @@
+[submodule "libewasm"]
+	path = libewasm
+	url = git@github.com:jakelang/libewasm.git
