@@ -15,7 +15,5 @@ main.wast:
 
 clean:
 	rm -f *.wast
-	rm -f *.wasm
-	rm -f *.wat
 	rm -f *.bc
 	rm -f *.s
